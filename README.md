@@ -1,4 +1,4 @@
-Mt this project demonstrates how to interface an LCD with an 8051 microcontroller to display messages on the screen. The code initializes the LCD, sends commands, writes data, and displays strings on the LCD.
+My this project demonstrates how to interface an LCD with an 8051 microcontroller to display messages on the screen. The code initializes the LCD, sends commands, writes data, and displays strings on the LCD.
 
 Hardware Connections
 Pin	Function	Microcontroller Pin
